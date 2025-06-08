@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature id="org.rm2pt.zzp.homework.feature">
-      <category name="org.rm2pt.zzp.homework.category"/>
-   </feature>
-   <category-def name="org.rm2pt.zzp.homework.category" label="org rm2pt zzp homework category"/>
-</site>
