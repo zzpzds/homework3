@@ -6,7 +6,8 @@ Bundle-Vendor: My Company
 Bundle-Version: 1.0.0.qualifier
 Bundle-SymbolicName: org.rm2pt.zzp.homework.dsl.ide; singleton:=true
 Bundle-ActivationPolicy: lazy
-Require-Bundle: org.rm2pt.zzp.homework.dsl,
+Require-Bundle: org.rm2pt.zzp.homework.metamodel,
+ org.rm2pt.zzp.homework.dsl,
  org.eclipse.xtext.ide,
  org.eclipse.xtext.xbase.ide
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8

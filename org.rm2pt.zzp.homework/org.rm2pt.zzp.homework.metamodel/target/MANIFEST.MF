@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.rm2pt.zzp.homework.metamodel;singleton:=true
+Automatic-Module-Name: org.rm2pt.zzp.homework.metamodel
+Bundle-Version: 1.0.0.202506081832
+Bundle-ClassPath: .
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.rm2pt.zzp.homework.metamodel.homework,org.rm2pt.zzp.
+ homework.metamodel.homework.impl,org.rm2pt.zzp.homework.metamodel.homew
+ ork.util
+Require-Bundle: org.eclipse.emf.ecore;visibility:=reexport,org.eclipse.c
+ ore.runtime
+Bundle-ActivationPolicy: lazy
+

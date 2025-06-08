@@ -27,6 +27,7 @@ Workflow {
 		language = StandardLanguage {
 			name = "org.rm2pt.zzp.homework.Dsl"
 			fileExtensions = "homeworkdsl"
+			referencedResource = "platform:/resource/org.rm2pt.zzp.homework.metamodel/model/homework.genmodel"
 
 			serializer = {
 				generateStub = false
